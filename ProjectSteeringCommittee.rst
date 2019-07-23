@@ -5,11 +5,18 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 PSC Members
 -----------
 
-* FirstName LastName, Chair
-* Members to be added by bootstrapping process
-* ...
+* Cameron Shorter
+* Felicity Brand
+* Jo Cook
+* Jennifer Rondeau
+* Jared Morgan
+* Erin McKean
+* Clarence Cromwell
+* Becky Todd
 
 Decisions
+---------
+
 Decisions are based on voting using the following:
 
 * +1 : For
@@ -34,4 +41,4 @@ Expectations of PSC members
 * Monitor TheGoodDocsProject conversations, either in weekly meetings, or on the email list, and contribute constructively where appropriate
 * Vote promptly (within days) to motions being raised
 
-*Credit: This management process is derived from the `OSGeoLive <https://live.osgeo.org/>`_.*
+*Credit: This management process is derived from the `OSGeoLive <https://live.osgeo.org/>`_ PSC process.*
