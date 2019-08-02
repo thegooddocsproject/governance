@@ -5,7 +5,7 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 PSC Members
 -----------
 
-* Cameron Shorter
+* Cameron Shorter, chair
 * Felicity Brand
 * Jo Cook
 * Jennifer Rondeau
