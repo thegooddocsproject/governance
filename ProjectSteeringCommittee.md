@@ -1,7 +1,7 @@
 TheGoodDocsProject Project Steering Committee
 =============================================
 
-TheGoodDocsProject Project Steering Committee (PSC) is the official managing body of TheGoodDocsProject and is responsible for setting overall project direction. The committee is drawn from the TheGoodDocsProject community and is based on merit and interest.
+TheGoodDocsProject Project Steering Committee (PSC) is the official managing body of TheGoodDocsProject and is responsible for setting overall project direction. The committee is drawn from TheGoodDocsProject community and is based on merit and interest.
 
 PSC Members
 -----------
@@ -30,7 +30,7 @@ Decisions are based on voting using the following:
 For most decisions, a motion is raised within one of TheGoodDocsProject open forums (slack, email list, etc) and those present vote and decide. Should a decision:
 
 -   Be strategic or impact many within TheGoodDocsProject,
--   Or if there be contention in deciding, and after discussion at least one member is still strongly against the motion, by continuing to vote -1,
+-   Or if there is contention in deciding, and after discussion at least one member is still strongly against the motion, by continuing to vote -1,
 
 Then the motion should be referred to the PSC.
 
@@ -44,5 +44,4 @@ Expectations of PSC members
 -   Monitor TheGoodDocsProject conversations, either in weekly meetings, or on the email list, and contribute constructively where appropriate
 -   Vote promptly (within days) to motions being raised
 
-*Credit: This management process is derived from the \`OSGeoLive
-\<https://live.osgeo.org/\>\`\_ PSC process.*
+*Credit: This management process is derived from the [OSGeoLive](https://live.osgeo.org/) PSC process.*

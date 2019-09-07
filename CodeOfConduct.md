@@ -8,11 +8,11 @@ Date: July 2019
 Introduction
 ------------
 
-This code of conduct governs how we behave in any TheGoodDocsProject forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in the TheGoodDocsProject community formally or informally, or claims any affiliation with the TheGoodDocsProject Foundation.
+This code of conduct governs how we behave in any TheGoodDocsProject forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in the TheGoodDocsProject community formally or informally, or claims any affiliation with the TheGoodDocsProject.
 
-It applies to in-person events (such as conferences and related social events), IRC, public and private mailing lists, the issue tracker, the wiki, blogs, Twitter, and any other forums which the community uses for communication and interactions.
+It applies to in-person events (such as conferences and related social events), mailing lists, chat, virtual meetings, the issue tracker, the wiki, blogs, twitter, and any other forums which the community uses for communication and interactions.
 
-This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the technical communities in which we participate.
+This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the communities in which we participate.
 
 Diversity Statement
 -------------------
@@ -34,13 +34,15 @@ Our work will be used by other people, and in turn we will depend on the work of
 
 **Be concise**
 
-Keep in mind that what you write once will be read by hundreds of persons. Writing a short email means people can understand the conversation as efficiently as possible. Short emails should always strive to be empathetic, welcoming, friendly and patient. When a long explanation is necessary, consider adding a summary. Try to bring new ideas to a conversation so that each mail adds something unique to the thread, keeping in mind that the rest of the thread still contains the other messages with arguments that have already been made. Try to stay on topic, especially in discussions that are already fairly large.
+Keep in mind that what you write once may be read by hundreds of persons. Writing a short email means people can understand the conversation as efficiently as possible. Short emails should always strive to be empathetic, welcoming, friendly and patient. When a long explanation is necessary, consider adding a summary. Try to bring new ideas to a conversation so that each mail adds something unique to the thread, keeping in mind that the rest of the thread still contains the other messages with arguments that have already been made. Try to stay on topic, especially in discussions that are already fairly large.
 
 **Step down considerately**
 
 Members of every project come and go. When somebody leaves or disengages from the project they should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off. In doing so, they should remain respectful of those who continue to participate in the project and should not misrepresent the project’s goals or achievements. Likewise, community members should respect any individual’s choice to leave the project.
 
-**Anti-Harassment** Harassment and other exclusionary behaviour are not acceptable. This includes, but is not limited to:
+**Anti-Harassment**
+
+Harassment and other exclusionary behaviour are not acceptable. This includes, but is not limited to:
 
 -   Personal insults or discriminatory jokes and language, especially those using racist or sexist terms.
 -   Offensive comments, excessive or unnecessary profanity.
@@ -50,16 +52,12 @@ Members of every project come and go. When somebody leaves or disengages from th
 -   Unwelcome physical contact or sexual attention.
 -   Repeated harassment of others. In general, if someone asks you to stop, then stop.
 -   Posting (or threatening to post) other people’s personally identifying information (“doxing”).
--   Sharing private content, such as emails sent privately or non-publicly, or unlogged forums such as IRC channel history.
+-   Sharing private content, such as emails sent privately or non-publicly, or unlogged forums such as chat channel history.
 -   Advocating for, or encouraging, any of the above behaviour.
 
 Reporting Guidelines
 ====================
 
-If you believe someone is breaking this code of conduct, you may reply to them, and point to this code of conduct. Such messages may be in public or in private, whatever is most appropriate. Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion. Should there be difficulties in dealing with the situation, you may report your concerns to event staff, a forum leader or the TheGoodDocsProject Board. Serious or persistent offenders may be expelled from the event or forum by event organizers or forum leaders.
+If you believe someone is breaking this code of conduct, you may reply to them, and point to this code of conduct. Such messages may be in public or in private, whatever is most appropriate. Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion. Should there be difficulties in dealing with the situation, you may report your concerns to event staff, a forum leader or the TheGoodDocsProject Steering Committee. Serious or persistent offenders may be expelled from the event or forum by event organizers or forum leaders.
 
-To privately email the code of conduct committee leadership use TBD ...  .
-
-This Code-Of-Conduct is based on the [OSGeo Code-Of-Conduct], which was based on others.
-
-  [OSGeo Code-Of-Conduct]: https://www.osgeo.org/code_of_conduct/
+*This Code-Of-Conduct is based on the [OSGeo Code-Of-Conduct](https://www.osgeo.org/code_of_conduct/) which was based on others.*
