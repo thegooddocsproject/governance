@@ -1,9 +1,9 @@
 Code of Conduct for TheGoodDocsProject
 ======================================
 
-Version: 0.1
+Version: 0.2
 
-Date: July 2019
+Date: September 2019
 
 Introduction
 ------------
