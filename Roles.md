@@ -34,7 +34,7 @@ A PSC chair shall be selected from the PSC, with the only official extra duty be
 * Optionally attend weekly meetings.
 * Vote promptly (within days) to motions being raised.
 
-## Selection of formal roles:
+## Selection of formal roles
 Selection of new Committers and PSC members is determined by PSC vote. Committers and PSC members may retire any time. If a Committer or PSC member becomes inactive for many months they may be invited to retire, and if unresponsive they may be removed by the existing PSC.
 
 _This description of roles is inspired by: <https://www.apache.org/foundation/how-it-works.html#roles> and <https://maven.apache.org/project-roles.html>.
