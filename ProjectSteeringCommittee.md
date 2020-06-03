@@ -9,15 +9,14 @@ PSC Members
 -   Cameron Shorter, chair
 -   Felicity Brand
 -   Jo Cook
--   Jennifer Rondeau
 -   Jared Morgan
 -   Erin McKean
 -   Clarence Cromwell
--   Becky Todd
 
 Our thanks to previous PSC members:
 
--   .
+-   Jennifer Rondeau
+-   Becky Todd
 
 PSC members may retire any time. If a PSC member becomes inactive, for multiple quaters, it may time to retire. (Ex-members will typically be welcomed back if they become active again.) An inactive member may be invited to retire. If unresponsive they may be removed by the existing PSC.
 
