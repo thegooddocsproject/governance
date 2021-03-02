@@ -159,7 +159,7 @@ another moderator involved.
 
 To promote impartiality, if the incident reporter is a community moderator
 themselves, then a different community moderator must handle the report. See
-<a href="#conflict-of-interest">Preventing conflicts of interest</a> for more
+<a href="#conflicts-of-interest">Preventing conflicts of interest</a> for more
 information.
 
 ### Overview
@@ -442,7 +442,7 @@ properly applied. They will then recommend to uphold, modify, or reverse the
 original incident response. Decisions made by the project steering committee are
 final.
 
-<a name="conflict-of-interest"></a>
+<a name="conflicts-of-interest"></a>
 ## Preventing conflicts of interest
 
 A moderator is considered to have a conflict of interest when any of the
