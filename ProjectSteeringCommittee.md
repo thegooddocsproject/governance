@@ -7,16 +7,31 @@ PSC Members
 -----------
 
 -   Cameron Shorter, chair
--   Felicity Brand
--   Jo Cook
--   Jared Morgan
--   Erin McKean
+-   Aaron Peters
+-   Aidan Doherty
+-   Alyssa Rock
+-   Ankita Tripathi
+-   Bryan Klein
 -   Clarence Cromwell
+-   Erin McKean
+-   Morgan Craft
+-   Viraji Ogodapola
 
 Our thanks to previous PSC members:
 
 -   Jennifer Rondeau
 -   Becky Todd
+-   Jo Cook
+-   Jared Morgan
+-   Felicity Brand
+
+Committers
+----------
+
+-   Chris Ward
+-   Daniel Beck
+-   Derek Ardolf
+-   Lana Brindley
 
 PSC members may retire any time. If a PSC member becomes inactive, for multiple quarters, it may time to retire. (Ex-members will typically be welcomed back if they become active again.) An inactive member may be invited to retire. If unresponsive they may be removed by the existing PSC.
 
