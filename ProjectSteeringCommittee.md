@@ -1,34 +1,32 @@
-TheGoodDocsProject Project Steering Committee
-=============================================
+# TheGoodDocsProject Project Steering Committee
 
 TheGoodDocsProject Project Steering Committee (PSC) is the official managing body of TheGoodDocsProject and is responsible for setting overall project direction. The committee is drawn from TheGoodDocsProject community and is based on merit and interest.
 
-PSC Members
------------
+## PSC Members
 
--   Cameron Shorter, chair
+-   Alyssa Rock, chair
 -   Aaron Peters
 -   Aidan Doherty
--   Alyssa Rock
 -   Ankita Tripathi
 -   Bryan Klein
--   Clarence Cromwell
+-   Cameron Shorter
 -   Erin McKean
 -   Morgan Craft
 -   Viraji Ogodapola
 
 Our thanks to previous PSC members:
 
--   Jennifer Rondeau
 -   Becky Todd
--   Jo Cook
--   Jared Morgan
+-   Clarence Cromwell
 -   Felicity Brand
+-   Jared Morgan
+-   Jennifer Rondeau
+-   Jo Cook
 
-Committers
-----------
+## Committers
 
 -   Chris Ward
+-   Clarence Cromwell
 -   Daniel Beck
 -   Derek Ardolf
 -   Felicity Brand
@@ -37,8 +35,7 @@ Committers
 
 PSC members may retire any time. If a PSC member becomes inactive, for multiple quarters, it may time to retire. (Ex-members will typically be welcomed back if they become active again.) An inactive member may be invited to retire. If unresponsive they may be removed by the existing PSC.
 
-Decisions
----------
+## Decisions
 
 Decisions are based on voting using the following:
 
@@ -58,8 +55,7 @@ Then the motion should be referred to the PSC.
 
 For motions presented to the PSC, a motion is considered passed when there are more PSC +1 votes than -1 votes, and either all PSC members have voted, or 4 days have passed. In the case of a tie, the PSC chair shall have 1.5 votes.
 
-Expectations of PSC members
----------------------------
+## Expectations of PSC members
 
 -   Regularly contribute to TheGoodDocsProject or related activities
 -   Help with whatever dirty work is required to keep the project moving forward
