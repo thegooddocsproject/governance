@@ -42,6 +42,8 @@ draft: false
 ---
 Put your elevator pitch here and a more detailed mission statement!
 Talk about who should join your group!
+
+Over time, this will be a good place to enter notes about the progress your group is making toward their objectives.
 ```
 
 
