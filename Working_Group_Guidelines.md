@@ -32,7 +32,7 @@ meeting: Your group's meeting cadence
 status: Active
 description: Short summary of the Group's objectives/goals, this will be shown on both the list and detail page.
 slackName: your-Slack-channel-name
-slackID: your-channel-ID
+slackID: your-channel-ID (you can get this ID by right clicking the channel name, 'Copy link', and find the id value at the end of that URL.)
 notesURL: http://example.com (link to your Google Doc for meeting notes)
 members:
   - "[Group member name](https://thegooddocs.slack.com/team/your-Slack-Profile-ID)"
