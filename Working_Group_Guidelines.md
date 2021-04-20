@@ -49,7 +49,7 @@ Talk about who should join your group!
 In order to be considered an active working group, your working group should strive to keep its responsibilities. Working group responsibilities include:
 
 - Holding meetings and recording meeting notes
-- The group should provide their group status, updated at least monthly.
+- The group should provide their group status, updated at least monthly. Adding notes to the Working Group page content is a great location for this information.
   Ideally this will be presented by one or more of its members to one of the two weekly Good Docs Project meetings.
   If attendance at the meeting is not possible, please provide your group status in the #general Slack channel or on the groups.io mailing list.
 - All working group members should follow the Good Docs Code of Conduct when working together.
