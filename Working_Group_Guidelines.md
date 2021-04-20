@@ -11,7 +11,6 @@ If you are interested in contributing to a working group, join their Slack chann
 
 For a list of the current active working groups, see [Good Docs Project Working Groups](https://thegooddocsproject.dev/working-group/).
 
-
 ## Creating a working group
 Anyone can create a working group for an initiative or focus area that you’re passionate about.
 To start a group, you need at least two Good Docs Project community members who are interested in collaborating together.
