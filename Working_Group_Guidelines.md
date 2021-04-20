@@ -30,7 +30,7 @@ title: Working Group Name
 poc: "[WG Captain Name](https://thegooddocs.slack.com/team/Slack-Profile-ID)"
 meeting: Your group's meeting cadence
 status: Active
-description: Group description.
+description: Short summary of the Group's objectives/goals, this will be shown on both the list and detail page.
 slackName: your-Slack-channel-name
 slackID: your-channel-ID
 notesURL: http://example.com (link to your Google Doc for meeting notes)
