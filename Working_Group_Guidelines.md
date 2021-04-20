@@ -18,7 +18,7 @@ To start a group, you need at least two Good Docs Project community members who 
 
 To create a working group:
 
-- Create a Slack channel for your group
+- Create a Slack channel for your group, then in the list of members of your channel, you can right click each person to copy the link to use for them in the 'members' frontmatter list.
 - Pick someone in your group to be the point of contact
 - Decide on regular meeting cadence (weekly? bi-weekly? monthly?)
 - Consider making a few general announcements to recruit other people toward your group on the #general Slack channel or on the main groups.io mailing list
