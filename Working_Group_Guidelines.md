@@ -27,7 +27,7 @@ To create a working group:
 ```
 ---
 title: Working Group Name
-poc: "[WG Captain Name](https://thegooddocs.slack.com/team/your-Slack-Profile-ID)"
+poc: "[WG Captain Name](https://thegooddocs.slack.com/team/Slack-Profile-ID)"
 meeting: Your group's meeting cadence
 status: Active
 description: Group description.
