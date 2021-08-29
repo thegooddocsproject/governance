@@ -4,163 +4,97 @@
 
 This document explains:
 
-- How to contact the current Good Docs Project community moderators (such as to
-  report a [Code of Conduct](CODE_OF_CONDUCT.md) incident).
-- The policies and procedures community moderators should follow when responding
-  to an incident.
-- Additional governing policies for the community moderator team (also sometimes
-  referred to as the “Code of Conduct committee”).
+- How to contact the current Good Docs Project community moderators (such as to report a [Code of Conduct](CODE_OF_CONDUCT.md) incident).
+- The policies and procedures community moderators should follow when responding to an incident.
+- Additional governing policies for the community moderator team (also sometimes referred to as the "Code of Conduct committee").
 
 ## Community moderators
 
-The following individuals are current Good Docs Project community moderators and
-their handles on the Good Docs Slack workspace:
+The following individuals are current Good Docs Project community moderators and are available on the Good Docs Slack workspace at these handles:
 
 - Alyssa Rock - @alyssarock
 - Ankita Tripathi - @ankitatripathi
-- Cameron Shorter - @cameronshorter
 - Daniel Beck - @danielbeck
+- Erin McKean - @erinmckean
 - Lana Brindley - @loquacity
+- Ryan Macklin - @macklin
 
-You may contact any of these individuals to make a Code of Conduct incident
-report.
+You may contact any of these individuals to make a Code of Conduct incident report.
 
 ## Contacting a community moderator
 
-You can contact a community moderator to make a code of conduct incident report
-or to discuss the process and options related to code of conduct incidents. To
-make an incident report, send a message to the community moderator that has the
-best working relationship with you and with whom you feel most comfortable
-talking.
+You can contact a community moderator to make a code of conduct incident report or to discuss the process and options related to code of conduct incidents.
+To make an incident report, send a message to the community moderator that has the best working relationship with you and with whom you feel most comfortable talking.
 
-To contact a moderator, please send them a direct message (i.e. a private,
-written message) on the Good Docs Project Slack. Community moderators will
-respond as soon as they can. They might also request a one-on-one meeting with
-you (such as a phone call or online video conference) to get more information
-about the incident.
+To contact a moderator, send them a direct message (in other words: a private, written message) on the Good Docs Project Slack.
+Community moderators will respond as soon as they can.
+They might also request a one-on-one meeting with you (such as a phone call or online video conference) to get more information about the incident.
 
 ## Community moderator values
 
 Community moderators should strive to:
 
-- Occupy a position of trust and good rapport within the Good Docs Project
-  community.
-- Be active listeners who can show empathy and understanding when meeting with
-  an incident responder.
-- Respect the privacy of incident reporters or other potentially sensitive and
-  private information they may have access to in this role.
-- Be fair and open-minded when investigating an incident and recommending a
-  response.
-- Develop healthy self-care strategies to prevent burnout and reduce personal
-  stress.
+- Occupy a position of trust and good rapport within the Good Docs Project community.
+- Be active listeners who can show empathy and understanding when meeting with an incident responder.
+- Respect the privacy of incident reporters or other potentially sensitive and private information they may have access to in this role.
+- Be fair and open-minded when investigating an incident and recommending a response.
+- Develop healthy self-care strategies to prevent burnout and reduce personal stress.
 
 ## Requirements for community moderators
 
-The Good Docs Project community moderators play an important role in the
-community because they help ensure the community is healthy, vibrant, and
-welcoming to all contributors. Because of the crucial nature of this role,
-potential community moderators should be invested in the long-term health of the
-Good Docs Project community and should be willing to develop a set of
-communication skills that may require some formal training. For that reason,
-individuals who are interested in serving as community moderators must:
+The Good Docs Project community moderators play an important role in the community because they help ensure the community is healthy, vibrant, and welcoming to all contributors.
+Because of the crucial nature of this role, potential community moderators should be invested in the long-term health of the Good Docs Project community and should be willing to develop a set of communication skills that may require some formal training.
+For that reason, individuals who are interested in serving as community moderators must:
 
-- Commit to a day or half-day formal training in incident response skills within
-  a month of joining the moderator team. Formal training involves taking an
-  online training course in incident response skills, mediation, or arbitration.
-  Or it could also involve participating in an informal workshop in incident
-  response skills led by a current Good Docs Project moderator. Upon joining the
-  moderator team, the new moderator can work with other moderators to develop a
-  training plan and ensure this training requirement is met.
-- Be recommended for the team by either another community moderator or a member
-  of the Good Docs Project project steering committee. Recommended individuals
-  should demonstrate the values and qualities necessary to carry out the
-  responsibilities of community moderators. Note that Good Docs Project
-  community members may first volunteer for consideration and then seek a
-  recommendation afterwards.
-- Be active contributors to the Good Docs Project who have participated in the
-  community for at least three months. Contributions can include authoring pull
-  requests, submitting issues, attending meetings regularly, and participating
-  in Good Docs Project community forums.
-- Cannot be subject of an ongoing Good Docs Project code of conduct incident
-  response.
+- Commit to a day or half-day formal training in incident response skills within a month of joining the moderator team. Formal training involves taking an online training course in incident response skills, mediation, or arbitration. Or it could also involve participating in an informal workshop in incident response skills led by a current Good Docs Project moderator. Upon joining the moderator team, the new moderator can work with other moderators to develop a training plan and ensure this training requirement is met.
+- Be recommended for the team by either another community moderator or a member of the Good Docs Project project steering committee. Recommended individuals should demonstrate the values and qualities necessary to carry out the responsibilities of community moderators. Note that Good Docs Project community members may first volunteer for consideration and then seek a recommendation afterwards.
+- Be active contributors to the Good Docs Project who have participated in the community for at least three months. Contributions can include authoring pull requests, submitting issues, participating in or leading a working group, attending meetings regularly, and participating in Good Docs Project community forums.
+- Cannot be subject of an ongoing Good Docs Project code of conduct incident response.
 
 ## Community moderator terms of service
 
-The Good Docs Project community moderator team should consist of 3-5 community
-members at a given time. To prevent burnout, community moderators should serve
-for a recommended limit of 6-12 months at a time.  Community members should
-stagger terms of service to ensure there is some continuity on the team over
-time. Community moderators may return to serve second terms after a break from
-service. If possible, outgoing community moderators should recommend a
-replacement from the community.
+The Good Docs Project community moderator team should consist of 3-5 community members at a given time.
+To prevent burnout, community moderators should serve for a recommended limit of 6-12 months at a time.
+Community members should stagger terms of service to ensure there is some continuity on the team over time.
+Although community moderators may serve additional terms of service, they should take a break from service from time to time, especially if they've lead investigations into multiple code of conduct incidents.
+If possible, outgoing community moderators should recommend a replacement from the community.
 
 ## Reviewing the Code of Conduct
 
-The code of conduct and this document (the community moderators document) should
-be reviewed by the moderator team at least once a year, typically in April, to
-ensure these documents are meeting the needs of the community. The Good Docs
-Project community will notify the community of any revisions by publicizing the
-revisions in the community’s forums of communication on both Slack and the
-groups.io mailing list.
+The code of conduct and this document (the community moderators document) should be reviewed by the moderator team at least once a year, typically in April, to ensure these documents are meeting the needs of the community.
+The Good Docs
+Project community will notify the community of any revisions by publicizing the revisions in the community's forums of communication on both Slack and the groups.io mailing list.
 
 
 ## Key terms used in this document
 
-This section provides a definition of key terms and roles that appear in the
-incident response policy that follows this section:
+This section provides a definition of key terms and roles that appear in the incident response policy that follows this section:
 
-- **Incident** - Also known as a “code of conduct incident” or “conduct
-  violation,” an incident is a behavior by a member of the Good Docs project
-  that allegedly violates the community [Code of Conduct](CODE_OF_CONDUCT.md).
-- **Incident report** - Also sometimes referred to as the “report,” an incident
-  report begins when a member of the Good Docs project reports behavior that
-  violates the community code of conduct. The incident report refers to the
-  violating behavior that is then investigated by community moderators.
-- **Incident reporter** - Also sometimes referred to as the “reporter,” the
-  incident reporter is the person who reports a code of conduct violation to a
-  community moderator.
-- **Handling an incident report** - Also known as “investigating a report,”
-  handling an incident report is the process of investigating and resolving an
-  incident report as explained using the processes and guidelines in the
-  subsequent sections.
-- **Investigating moderator** - Also known as the “investigator,” the
-  investigating moderator is the community moderator who will handle the
-  incident report and ensure the report moves through all six stages.
-- **Accused individual** - The accused individual is the person who is alleged
-  to have violated the code of conduct.
-- **Escrowed reports** - If an incident reporter does not give permission to
-  proceed with an investigation, they will be given the option to hold the
-  report “in escrow.” Escrowed reports will not be acted upon until there is a
-  second report of the same incident or a similar incident involving the same
-  individual. The goal of an escrow report is to retain a record of incidents in
-  case there is a pattern of misbehavior by the same individual.
+- **Incident** - Also known as a "code of conduct incident" or "conduct violation," an incident is a behavior by a member of the Good Docs project that allegedly violates the community [Code of Conduct](CODE_OF_CONDUCT.md).
+- **Incident report** - Also sometimes referred to as the "report," an incident report begins when a member of the Good Docs project reports behavior that violates the community code of conduct to a community moderator. The incident report refers to the violating behavior that is then investigated by community moderators.
+- **Incident reporter** - Also sometimes referred to as the "reporter," the incident reporter is the person who reports a code of conduct violation to a community moderator.
+- **Handling an incident report** - Also known as "investigating a report," handling an incident report is the process of investigating and resolving an incident report as explained using the processes and guidelines in the subsequent sections.
+- **Investigating moderator** - Also known as the "investigator," the investigating moderator is the community moderator who will handle the incident report and ensure the report moves through all six stages.
+- **Accused individual** - The accused individual is the person who is alleged to have violated the code of conduct.
+- **Escrowed reports** - If an incident reporter does not give permission to proceed with an investigation, they will be given the option to hold the report "in escrow." Escrowed reports will not be acted upon until there is a second report of the same incident or a similar incident involving the same individual. The goal of an escrow report is to retain a record of incidents in case there is a pattern of misbehavior by the same individual.
 
 ## Handling incident reports
 
-An incident report begins when a member of the Good Docs Project contacts a
-community moderator to report an incident. The moderator who is contacted should
-handle the incident report and should try to respond as soon as possible. This
-moderator will become the investigating moderator.
+An incident report begins when a member of the Good Docs Project contacts a community moderator to report an incident.
+The moderator who is contacted should handle the incident report and should try to respond as soon as possible.
+This moderator will become the investigating moderator.
 
-The investigating moderator may involve another community moderator as an
-additional investigator or as a replacement investigator under these conditions:
+The investigating moderator may involve another community moderator as an additional supporting investigator or as a replacement investigator under these conditions:
 
-- If the moderator who was contacted by the incident reporter does not feel
-  comfortable investigating and handling the incident alone.
-- If the moderator cannot handle the incident in a timely manner and must ask a
-  different moderator to investigate the incident report.
+- If the moderator who was contacted by the incident reporter does not feel comfortable investigating and handling the incident alone.
+- If the moderator cannot handle the incident in a timely manner and must ask a different moderator to investigate the incident report.
 - If the moderator needs to be recused because of a conflict of interest.
 
-If the moderator who was contacted by an incident reporter intends to involve an
-additional community moderator for support or as a replacement, they should
-first inform the incident reporter, explain the circumstances, and offer the
-opportunity to withdraw their incident report if they are uncomfortable having
-another moderator involved.
+If the moderator who was contacted by an incident reporter intends to involve an additional community moderator for support or as a replacement, they should first inform the incident reporter, explain the circumstances, and offer the
+opportunity to withdraw their incident report if they are uncomfortable having another moderator involved.
 
-To promote impartiality, if the incident reporter is a community moderator
-themselves, then a different community moderator must handle the report. See
-<a href="#conflicts-of-interest">Preventing conflicts of interest</a> for more
-information.
+To promote impartiality, if the incident reporter is a community moderator themselves, then a different community moderator must handle the report.
+See <a href="#conflicts-of-interest">Preventing conflicts of interest</a> for more information.
 
 ### Overview
 
@@ -177,65 +111,33 @@ See the following sections for more information about what occurs in each phase.
 
 ### Listen
 
-During the listening phase, the investigating moderator will listen to the
-incident reporter’s explanation of the code of conduct violation, explain the
-available outcomes, and will obtain permission to proceed to the next steps in
-the investigation. The investigating moderator will treat the reporter’s
-identity as confidential and will only disclose their identity to other
- moderators on a need-to-know basis.
+During the listening phase, the investigating moderator will listen to the incident reporter's explanation of the code of conduct violation, explain the available outcomes, and will obtain permission to proceed to the next steps in the investigation.
+The investigating moderator will treat the reporter's identity as confidential and will only disclose their identity to other moderators on a need-to-know basis.
 
-The investigating moderator should talk directly to the person who reported the
-incident either through an online video conference or by phone.
+The investigating moderator should talk directly to the person who reported the incident either through an online video conference or by phone.
 
 During this meeting, the investigating moderator should:
 
-- Note the reporter’s name and contact information.
-- If possible, note the incident’s date, time, and/or location.
-- Listen carefully to the incident reporter and get a complete understanding of
-  the incident, its context, and the parties involved. The moderator should
-  strive to listen with empathy and understanding. They should default to
-  believing the incident responder.
-- Ask what the incident reporter would need in order to feel emotionally whole
-  or restored. Explain the possible outcomes that are available, as provided in
-  the [Code of Conduct](CODE_OF_CONDUCT.md) (correction, warning, temporary ban,
-  permanent ban). However, the moderator should not make any direct promises for
-  exactly how the report will be handled until the investigation is concluded.
-- Obtain permission from the incident reporter to proceed with the
-  investigation. If permission is not granted, the investigator can offer to
-  hold the incident report in escrow. Escrowed reports will not be acted upon
-  until there is a second report of the same incident or a similar incident
-  involving the same individual. The goal of escrow reports is to retain
-  incident reports in case there is a pattern of misbehavior by the same
-  individual.
+- Note the reporter's name and contact information.
+- If possible, note the incident's date, time, and/or location.
+- Listen carefully to the incident reporter and get a complete understanding of the incident, its context, and the parties involved. The moderator should strive to listen with empathy and understanding. **They should default to believing the incident responder.**
+- Ask what the incident reporter would need in order to feel emotionally whole or restored. Explain the possible outcomes that are available, as provided in the [Code of Conduct](CODE_OF_CONDUCT.md) (correction, warning, temporary ban, permanent ban). However, the moderator should not make any direct promises for exactly how the report will be handled until the investigation is concluded.
+- Obtain permission from the incident reporter to proceed with the investigation. If permission is not granted, the investigator can offer to hold the incident report in escrow. Escrowed reports will not be acted upon until there is a second report of the same incident or a similar incident involving the same individual. The goal of escrow reports is to retain incident reports in case there is a pattern of misbehavior by the same individual.
 
 During or immediately after the meeting, the investigating moderator should:
 
-- Fill out the [incident response form](https://gitlab.com/otter-tech/coc-incident-response-workshop/-/blob/master/report-template-for-responders.pdf)
-  to ensure that all information from the meeting has been accurately captured.
-  The investigating moderator should only document information required to
-  inform the report resolution. Where possible, avoid documenting your opinion
-  about a report, or any information that is not relevant to the report about
-  individuals.
-- If permission was not obtained, the incident report is kept in the incident
-  report archives, which is a shared Google Drive folder with restricted access.
-  If the incident reporter wanted to keep the report in escrow, the incident
-  report is kept in the escrow incident report archives, which is a separate
-  Google Drive folder with restricted access permissions.
+- Fill out the [incident response form](https://gitlab.com/otter-tech/coc-incident-response-workshop/-/blob/master/report-template-for-responders.pdf) to ensure that all information from the meeting has been accurately captured. The investigating moderator should only document information required to inform the report resolution. Where possible, avoid documenting your opinion about a report, or any information that is not relevant to the report about individuals.
+- If permission was not obtained, the incident report is kept in the incident report archives, which is a shared Google Drive folder with restricted access. If the incident reporter wanted to keep the report in escrow, the incident report is kept in the escrow incident report archives, which is a separate Google Drive folder with restricted access permissions.
 - If permission was obtained, proceed with the rest of the investigation.
 
-If necessary, the moderator may need to conduct additional interviews with other
-corroborating incidents or may have to review any additional recorded evidence
-of the incident (such as emails, documents, message transcripts, or chat
+If necessary, the moderator may need to conduct additional interviews with other corroborating incidents or may have to review any additional recorded evidence of the incident (such as emails, documents, message transcripts, or chat
 histories).
 
 ### Triage
-After completing the listening phase, the moderator should assign an initial
-risk and impact level to the incident using their best judgment based on the
-following guidelines.
+After completing the listening phase, the moderator should assign an initial risk and impact level to the incident using their best judgment based on the following guidelines.
 
 **Severity levels**
-Severity refers to the overall seriousness of the behavior and the risk that
-behavior will be repeated:
+Severity refers to the overall seriousness of the behavior and the risk that behavior will be repeated:
 
 <table>
   <tr>
@@ -247,14 +149,9 @@ behavior will be repeated:
     <td>High</td>
     <td>
       <ul>
-        <li>The incident is extremely severe and/or there is a high likelihood
-          the behavior will occur again in the future.</li>
-        <li>Incidents that are harassing, dangerous, abusive, violent, offensive
-          (especially to marginalized groups), or which threaten the physical
-          and/or psychological safety of one or more community members are
-          designated as high severity.</li>
-        <li>Repeated medium- or low-level offenses by the same individual are
-          also automatically designated as high severity.</li>
+        <li>The incident is extremely severe and/or there is a high likelihood the behavior will occur again in the future.</li>
+        <li>Incidents that are harassing, dangerous, abusive, violent, offensive (especially to marginalized groups), or which threaten the physical and/or psychological safety of one or more community members are designated as high severity.</li>
+        <li>Repeated medium- or low-level offenses by the same individual are also automatically designated as high severity.</li>
       </ul>
     </td>
     <td>
@@ -271,10 +168,8 @@ behavior will be repeated:
     <td>Medium</td>
     <td>
       <ul>
-        <li>The incident is moderately severe and is potentially disruptive to
-          the community.</li>
-        <li>The incident could possibly cause one or more community members to
-          feel unwelcome or uncomfortable in the community.</li>
+        <li>The incident is moderately severe and is potentially disruptive to the community.</li>
+        <li>The incident could possibly cause one or more community members to feel unwelcome or uncomfortable in the community.</li>
       </ul>
     </td>
     <td>
@@ -282,16 +177,14 @@ behavior will be repeated:
         <li>Mildly inappropriate comments or jokes</li>
         <li>Bullying</li>
         <li>Tone-policing</li>
-        <li>Repeatedly dominating a conversation (such as repeatedly talking
-          over another person or not inviting discussion from others where
-          appropriate)</li>
+        <li>Repeatedly dominating a conversation (such as repeatedly talking over another person or not inviting discussion from others where appropriate)</li>
         <li>Excessive profanity</li>
         <li>Sustained disruptions of community events</li>
     </td>
   </tr>
   <tr>
     <td>Low</td>
-    <td>The incident is minor in nature and doesn’t pose serious harm or risk of harm.</td>
+    <td>The incident is minor in nature and doesn't pose serious harm or risk of harm.</td>
     <td>
       <ul>
         <li>Heated discussions or disagreements between community members.</li>
@@ -302,9 +195,7 @@ behavior will be repeated:
 
 
 **Impact levels**
-Impact refers to how public the incident was and the number of community members
-who were or who could have been impacted by the incident, especially members of
-marginalized communities:
+Impact refers to how public the incident was and the number of community members who were or who could have been impacted by the incident, especially members of marginalized communities:
 
 <table>
   <tr>
@@ -316,21 +207,16 @@ marginalized communities:
     <td>High</td>
     <td>
       <ul>
-        <li>The incident occurred in a public event, in a Good Docs Project
-          meeting or community event, or on a community forum (such as on the
-          mailing list or in chat, such as on the Slack channel).</li>
-        <li>The accused individual is a Good Docs Project leader or a high-profile
-          community member.</li>
-        <li>Incidents involving someone who was representing the Good Docs
-          Project in an official capacity while the incident occurred.</li>
+        <li>The incident occurred in a public event, in a Good Docs Project meeting or community event, or on a community forum (such as on the mailing list or in chat, such as on the Slack channel).</li>
+        <li>The accused individual is a Good Docs Project leader or a high-profile community member.</li>
+        <li>Incidents involving someone who was representing the Good Docs Project in an official capacity while the incident occurred.</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Comments in the Good Docs Slack or mailing list.</li>
         <li>Comments or actions in a Good Docs Project meeting.</li>
-        <li>Speaking or participating at a conference or fund-raising event as a
-        representative of the Good Docs Project.</li>
+        <li>Speaking or participating at a conference or fund-raising event as a representative of the Good Docs Project.</li>
       </ul>
     </td>
   </tr>
@@ -338,9 +224,7 @@ marginalized communities:
     <td>Low</td>
     <td>
       <ul>
-        <li>The incident occurred in a private conversation, message, or email.
-          Also includes posts or comments made in a forum or context outside of
-          official Good Docs Project, such as on a personal social media account.</li>
+        <li>The incident occurred in a private conversation, message, or email. Also includes posts or comments made in a forum or context outside of official Good Docs Project, such as on a personal social media account.</li>
       </ul>
     </td>
     <td>
@@ -355,118 +239,76 @@ marginalized communities:
 
 ### Recommend
 
-Once an initial risk or impact level has been assigned, the investigating
-moderator should send a private message to the rest of the community moderators
-through email. Moderators who have recused themselves over conflicts of interest
-should not be included in this email. A separate direct message on Slack to
-notify the other moderators to check for the email would also be appropriate to
-ensure everyone is aware of the email.
+Once an initial risk or impact level has been assigned, the investigating moderator should send a private message to the rest of the community moderators through email.
+Moderators who have recused themselves over conflicts of interest should not be included in this email.
+A separate direct message on Slack to notify the other moderators to check for the email would also be appropriate to ensure everyone is aware of the email.
 
-In the email, indicate your assessment of the incident’s severity and impact
-level and your recommended response. See the [Code of Conduct](CODE_OF_CONDUCT.md)
-for the four possible responses to a conduct violation (correction, warning,
+In the email, indicate your assessment of the incident's severity and impact level and your recommended response.
+See the [Code of Conduct](CODE_OF_CONDUCT.md) for the four possible responses to a conduct violation (correction, warning,
 temporary ban, permanent ban).
 
-Community moderators should respond as soon as possible whether they concur with
-the incident severity and impact levels and the recommended response. If
-community moderators disagree with the original assessment, the moderators
-should indicate the nature of their disagreement. Where disagreements occur, the
-committee should work quickly to reach a consensus (ideally within 1-2 days) and
-may require a video conference discussion. If a consensus cannot be reached and
-has ended in a stalemate, the response should be put to a vote. In incidents
-where a tied vote occurs, the chair of the community moderators acts as the
-deciding vote.
+Community moderators should respond as soon as possible whether they concur with the incident severity and impact levels and the recommended response.
+If community moderators disagree with the original assessment, the moderators should indicate the nature of their disagreement.
+Where disagreements occur, the committee should work quickly to reach a consensus (ideally within 1-2 days) and may require a video conference discussion.
+If a consensus cannot be reached and
+has ended in a stalemate, the response should be put to a vote.
+In incidents where a tied vote occurs, the chair of the community moderators acts as the deciding vote.
 
-After a response has been recommended, the incident reporter should be notified
-of the outcome of the investigation and the recommended response before
-proceeding.
+After a response has been recommended, the incident reporter should be notified of the outcome of the investigation and the recommended response before proceeding.
 
 ### Respond
 
-Once the incident response has been determined by the community moderators, the
-investigating moderator should meet with the accused individual in person
-(either through an online video conference or by phone). The moderator may
-invite an additional moderator to attend the meeting if support is desired.
+Once the incident response has been determined by the community moderators, the investigating moderator should meet with the accused individual in person (either through an online video conference or by phone).
+The moderator may invite an additional moderator to attend the meeting if support is desired.
 
-In this meeting, the moderator should explain the nature of the reported
-incident and the specifics of the incident response (correction, warning,
-temporary ban, permanent ban). The accused individual will be given a chance to
-respond (within reason) and will be informed about the process for appealing the
-incident response.
+In this meeting, the moderator should explain the nature of the reported incident and the specifics of the incident response (correction, warning, temporary ban, permanent ban).
+The accused individual will be given a chance to respond (within reason) and will be informed about the process for appealing the incident response.
 
-If a new code of conduct violation occurs in this meeting (such as a derogatory
-or threatening comment made to a community moderator or about another member of
-the community), it should be treated as a separate incident and should be
+If a new code of conduct violation occurs in this meeting (such as a derogatory or threatening comment made to a community moderator or about another member of the community), it should be treated as a separate incident and should be
 reported as a new incident to the community moderators.
 
-To protect the identity of the incident reporter, the accused individual will
-not be given the identity of the incident reporter nor will they be allowed to
-contact the incident reporter, even to apologize. If an apology is required as
-part of the response, the following options are permissible:
+To protect the identity of the incident reporter, the accused individual will not be given the identity of the incident reporter nor will they be allowed to contact the incident reporter, even to apologize.
+If an apology is required as part of the response, the following options are permissible:
 
-- The apology can be delivered to the investigating community moderator who will
-  then deliver it to the incident reporter.
+- The apology can be delivered to the investigating community moderator who will then deliver it to the incident reporter.
 - The apology may be delivered in a public forum.
 
 ### Resolve
 
-The investigating moderator should implement the consequence(s) of the incident
-response, depending on what the response was. The moderator should also follow
-up with the incident reporter to let them know what the outcome of the report
-was.
+The investigating moderator should implement the consequence(s) of the incident response, depending on what the response was.
+The moderator should also follow up with the incident reporter to let them know what the outcome of the report was.
 
-If a temporary ban was implemented, a community moderator who handled the
-incident should meet with the accused individual to ensure compliance before
-readmittance into the community.
+If a temporary ban was implemented, a community moderator who handled the incident should meet with the accused individual to ensure compliance before readmittance into the community.
 
 All documentation should be moved to the appropriate Google Drive folder:
 
 - The incident response form should be retained in the appropriate archive
-- In a separate form, the investigator should indicate the incident’s severity
-  and impact level and the resolution (correction, warning, temporary ban,
-  permanent ban).
+- In a separate form, the investigator should indicate the incident's severity and impact level and the resolution (correction, warning, temporary ban, permanent ban).
 
 ## Handling incident appeals
 
-If an accused individual wants to dispute the decision of the community
-moderators, that individual is entitled to one appeal. An appeal can be
-requested directly from the community moderators using the same process of
-reporting an incident. That means that the accused individual can send a direct
-message to one of the community moderators to request an appeal.
+If an accused individual wants to dispute the decision of the community moderators, that individual is entitled to one appeal.
+An appeal can be requested directly from the community moderators using the same process of reporting an incident.
+That means that the accused individual can send a direct message to one of the community moderators to request an appeal.
 
-When an appeal is requested, 2-3 members of the Good Docs Project steering
-committee will review the incident documentation and the reason for the appeal.
-They will consult with the community moderators about the investigation and
-decision-making process to determine if the code of conduct was fairly and
-properly applied. They will then recommend to uphold, modify, or reverse the
-original incident response. Decisions made by the project steering committee are
-final.
+When an appeal is requested, 2-3 members of the Good Docs Project steering committee will review the incident documentation and the reason for the appeal.
+They will consult with the community moderators about the investigation and decision-making process to determine if the code of conduct was fairly and properly applied.
+They will then recommend to uphold, modify, or reverse the original incident response.
+Decisions made by the project steering committee are final.
 
 <a name="conflicts-of-interest"></a>
 ## Preventing conflicts of interest
 
-A moderator is considered to have a conflict of interest when any of the
-following conditions are met:
+A moderator is considered to have a conflict of interest when any of the following conditions are met:
 
 - The moderator is the individual accused of a code of conduct violation.
-- The moderator has a close working or personal relationship with the individual
-  accused of a code of conduct violation that could impede their ability to be
-  impartial.
-- The moderator was personally involved in the code of conduct violation in some
-   way (such as being the direct target of a code of conduct violation). Merely
-   witnessing or being present during the incident does not necessarily qualify
-   as a conflict of interest. Merely being part of a protected group that was
-   targeted in a derogatory statement or action does not necessarily qualify as
-   a conflict of interest.
+- The moderator has a close working or personal relationship with the individual accused of a code of conduct violation that could impede their ability to be impartial.
+- The moderator was personally involved in the code of conduct violation in some way (such as being the direct target of a code of conduct violation). Merely witnessing or being present during the incident does not necessarily qualify as a conflict of interest. Merely being part of a protected group that was targeted in a derogatory statement or action does not necessarily qualify as a conflict of interest.
 
-Moderators that meet any of these conditions should recuse themselves from all
-discussions and decisions about the incident where they have a conflict of
-interest. Another member of the community moderation team should act as the
-investigating moderator. The moderator with a conflict of interest should ensure
-that another moderator is designated to handle the incident.
+Moderators that meet any of these conditions should recuse themselves from all discussions and decisions about the incident where they have a conflict of interest.
+Another member of the community moderation team should act as the investigating moderator.
+The moderator with a conflict of interest should ensure that another moderator is designated to handle the incident.
 
-If the accused individual is a leader or prominent member of the Good Docs
-Project community, avoidance of a conflict of interest may not be possible as
-all moderators could possibly have a personal working relationship with the
-accused individual. In this situation, recusal is not necessary and moderators
-should instead make their best effort to remain impartial.
+If the accused individual is a leader or prominent member of the Good Docs Project community, avoidance of a conflict of interest may not be possible as all moderators could possibly have a personal working relationship with the
+accused individual.
+In this situation, recusal is not necessary and moderators should instead make their best effort to remain impartial.
