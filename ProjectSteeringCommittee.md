@@ -12,6 +12,7 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 -   Carrie Crowe
 -   Deanna Thompson
 -   Erin McKean
+-   Felicity Brand
 -   Gayathri Krishnaswamy
 -   Morgan Craft
 -   Nelson Guya
@@ -23,7 +24,6 @@ Our thanks to previous PSC members:
 -   Aidan Doherty
 -   Becky Todd
 -   Clarence Cromwell
--   Felicity Brand
 -   Jared Morgan
 -   Jennifer Rondeau
 -   Jo Cook
