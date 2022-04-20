@@ -17,6 +17,7 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 -   Gayathri Krishnaswamy
 -   Morgan Craft
 -   Nelson Guya
+-   Tina Lüdtke
 -   Viraji Ogodapola
 
 Our thanks to previous PSC members:
