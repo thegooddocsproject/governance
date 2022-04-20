@@ -4,19 +4,19 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 
 ## PSC Members
 
--   Alyssa Rock, chair
+-   Alyssa Rock, co-chair
+-   Carrie Crowe, co-chair
+-   Ryan Macklin, co-chair
 -   Aaron Peters
 -   Ankita Tripathi
 -   Bryan Klein
 -   Cameron Shorter
--   Carrie Crowe
 -   Deanna Thompson
 -   Erin McKean
 -   Felicity Brand
 -   Gayathri Krishnaswamy
 -   Morgan Craft
 -   Nelson Guya
--   Ryan Macklin
 -   Viraji Ogodapola
 
 Our thanks to previous PSC members:
