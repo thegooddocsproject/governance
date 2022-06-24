@@ -1,4 +1,4 @@
-# TheGoodDocsProject Project Steering Committee
+# The Good Docs Project Project Steering Committee
 
 TheGoodDocsProject Project Steering Committee (PSC) is the official managing body of TheGoodDocsProject and is responsible for setting overall project direction. The committee is drawn from TheGoodDocsProject community and is based on merit and interest.
 
@@ -18,7 +18,6 @@ TheGoodDocsProject Project Steering Committee (PSC) is the official managing bod
 -   Morgan Craft
 -   Nelson Guya
 -   Tina Lüdtke
--   Viraji Ogodapola
 
 Our thanks to previous PSC members:
 
@@ -28,17 +27,8 @@ Our thanks to previous PSC members:
 -   Jared Morgan
 -   Jennifer Rondeau
 -   Jo Cook
+-   Viraji Ogodapola
 
-## Committers
-
--   Aidan Doherty
--   Chris Ward
--   Clarence Cromwell
--   Daniel Beck
--   Derek Ardolf
--   Felicity Brand
--   Jared Morgan
--   Lana Brindley
 
 PSC members may retire any time. If a PSC member becomes inactive, for multiple quarters, it may time to retire. (Ex-members will typically be welcomed back if they become active again.) An inactive member may be invited to retire. If unresponsive they may be removed by the existing PSC.
 
